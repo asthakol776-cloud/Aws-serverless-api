@@ -1,0 +1,9 @@
+{
+  "name": "aws-serverless-api",
+  "version": "1.0.0",
+  "description": "AWS Lambda Serverless API",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
