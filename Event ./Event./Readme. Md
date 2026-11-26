@@ -1,0 +1,34 @@
+# AWS Serverless API
+
+## Module 05: AWS Lambda & Serverless
+
+### Project Overview
+This project demonstrates serverless
+computing using AWS Lambda and API Gateway.
+
+### Technologies
+- AWS Lambda
+- Amazon API Gateway
+- Node.js
+- JavaScript
+- JSON
+
+### Features
+- Serverless API
+- HTTP GET request
+- JSON response
+- Lambda function integration
+
+### Expected Output
+{
+  "success": true,
+  "message": "AWS Lambda API is working!",
+  "method": "GET"
+}
+
+### Learning Objectives
+1. Understand Serverless Computing.
+2. Learn AWS Lambda.
+3. Create Lambda Functions.
+4. Understand API Gateway.
+5. Connect API Gateway with Lambda.
